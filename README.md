@@ -16,3 +16,10 @@ It provides flexibility to its user where one can interact and communicate with 
 2. Courses offered with a large pool of categories.
 3. Provide mentorship once after clearing aptitude test and earn money.
 4. Be a part of a healthy community where everyone's aim is to grow and learn.
+
+## Tech Stack-
+1. Flutter for App development
+2. Firebase Auth for Authentication .
+3. Node.js for Backend.
+4. Figma for UI development.
+5. Python for Machine Learning .
