@@ -12,7 +12,7 @@ Our app provides the right environment that one needs to master their skills , e
 It provides flexibility to its user where one can interact and communicate with their mentor of their particular niche.
 
 ## Key Features-
-1.One on one online mentorship with proper doubt solving and notes taking feature in the app.
+1.One on one online mentorship with proper doubt solving and notes taking feature in the app.\n
 2.Courses offered with a large pool of categories.
 3.Provide mentorship once after clearing aptitude test and earn money.
 4.Be a part of a healthy community where everyone's aim is to grow and learn.
