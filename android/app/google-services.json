@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196567503878",
+    "project_id": "remolearn-b2f4c",
+    "storage_bucket": "remolearn-b2f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196567503878:android:d9d8df27e6ca4b8cef5f87",
+        "android_client_info": {
+          "package_name": "com.example.remo_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgId70Ln7453GmBbI3F2GHRITCHJ47Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

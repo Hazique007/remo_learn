@@ -35,10 +35,38 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.4
+  percent_indicator: ^4.2.3
+  firebase_database: ^10.4.0
+
+  ionicons: ^0.2.2
+  carousel_slider: ^4.2.1
+
+  cloud_firestore: ^4.13.6
+  firebase_auth: ^4.16.0
+  firebase_storage: ^11.5.6
+
+  firebase_core: ^2.24.2
+  fluttertoast: ^8.2.4
+  google_sign_in: ^6.1.6
+
+
+
+#  fluttertoast: ^8.2.4
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "Assets/log.png"
+
+
+
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -59,9 +87,29 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+      - Assets/Mentro.png
+      - Assets/get.png
+      - Assets/log.png
+      - Assets/an.jpg
+      - Assets/ui.jpg
+      - Assets/mv.jpg
+      - Assets/tr2.jpg
+      - Assets/tr3.jpg
+      - Assets/sc1.jpg
+      - Assets/sc2.jpg
+      - Assets/sc3.jpg
+      - Assets/myc1.jpg
+      - Assets/mlc.jpeg
+      - Assets/me.jpg
+      - Assets/bemen.png
+      - Assets/bement.png
+      - Assets/remo.png
+      - Assets/p1.png
+      - Assets/p2.png
+      - Assets/comm.jpg
+      - Assets/log.png
+      - Assets/goo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

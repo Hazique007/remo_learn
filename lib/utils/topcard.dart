@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
 import 'package:ionicons/ionicons.dart';
 
 
 import 'package:percent_indicator/linear_percent_indicator.dart';
-import 'package:remo_learn/colors.dart';
+import 'package:remo_learn/utils/colors.dart';
 
 class TopCard extends StatefulWidget {
   const TopCard({super.key});
